@@ -1,3 +1,3 @@
 print("Hello, World!")
 
-print("Hello, Lumbini Elite")
+print("Hello, Lumbini City College")
